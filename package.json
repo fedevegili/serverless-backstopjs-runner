@@ -1,0 +1,25 @@
+{
+  "name": "serverless-backstopjs-runner",
+  "version": "1.0.3",
+  "main": "index.js",
+  "bin": {
+    "serverless-backstopjs-runner": "./cli.js"
+  },
+  "repository": "https://github.com/fedevegili/serverless-backstopjs-runner.git",
+  "author": "Fernando Devegili <fedevegili@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cli-color": "^2.0.0",
+    "commander": "^6.0.0",
+    "fs-extra": "^9.0.1"
+  },
+  "scripts": {
+    "lint": "eslint . --fix"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
