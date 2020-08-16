@@ -4,7 +4,7 @@ Runs [BackstopJS](https://github.com/garris/BackstopJS) against a serverless end
 Read more about it here: [The power of serverless: Visual regression tests from 20 minutes to 10 seconds](ARTICLE_LINK)
 
 ### Install
-```npm install```
+```npm install serverless-backstopjs-runner```
 
 ### Usage
 ```API_KEY=YOUR_API_KEY API_URL=YOUR_API_URL npx serverless-backstopjs-runner --config sample/sample_backstop_config.json --retries 2```
