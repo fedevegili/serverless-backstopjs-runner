@@ -1,7 +1,7 @@
 ### serverless-backstopjs-runner
 Runs [BackstopJS](https://github.com/garris/BackstopJS) against a serverless endpoint. Used in conjuction with [serverless-backstopjs](https://github.com/fedevegili/serverless-backstopjs).
 
-Read more about it here: [The power of serverless: Visual regression tests from 20 minutes to 10 seconds](ARTICLE_LINK)
+Read more about it here: [The power of serverless: Visual regression tests from 20 minutes to 10 seconds](https://medium.com/@fedevegili/the-power-of-serverless-visual-regression-tests-from-20-minutes-to-10-seconds-bc47b2ce9d20)
 
 ### Install
 ```npm install serverless-backstopjs-runner```
